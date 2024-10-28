@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="squirrel:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/squirrel_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="squirrel/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="squirrel" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
